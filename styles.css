@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+
+
+        background-color: rgb(225, 237, 240);
+        padding: 50px;
+        text-align: left;
+        margin: auto;
+        display: table;
+        
+    }
+
+h1{
+    color :rgb(17, 8, 8);
+}
+div{
+    position: absolute;
+
+}
